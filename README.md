@@ -55,7 +55,7 @@ Top Customers Spending
 ![WordWide Page 2](https://github.com/youssefm0/worldwide-sales-analysis/blob/main/Dashboard%20Snapshots/WordWide_page-0002.jpg)
 
 Geographic Revenue  
-![WordWide Page 3](https://github.com/youssefm0/worldwide-sales-analysis/blob/main/Dashboard%20Snapshots/WordWide_page-0003.jpg)
+![WordWide Page 4](https://github.com/youssefm0/worldwide-sales-analysis/blob/main/Dashboard%20Snapshots/WordWide_page-0004.jpg)
 
 Yearly Revenue Breakdown  
-![WordWide Page 4](https://github.com/youssefm0/worldwide-sales-analysis/blob/main/Dashboard%20Snapshots/WordWide_page-0004.jpg)
+![WordWide Page 3](https://github.com/youssefm0/worldwide-sales-analysis/blob/main/Dashboard%20Snapshots/WordWide_page-0003.jpg)
