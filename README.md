@@ -46,16 +46,16 @@ markdown
 Copy
 Edit
 
-📸 **Dashboard Snapshots**
+📸 Dashboard Snapshots
 
-- **Sales Over Time**  
-![WordWide Page 1](Dashboard Snapshots/WordWide_page-0001.jpg)
+Sales Over Time  
+![WordWide Page 1](https://github.com/youssefm0/worldwide-sales-analysis/blob/main/Dashboard%20Snapshots/WordWide_page-0001.jpg)
 
-- **Top Customers Spending**  
-![WordWide Page 2](Dashboard Snapshots/WordWide_page-0002.jpg)
+Top Customers Spending  
+![WordWide Page 2](https://github.com/youssefm0/worldwide-sales-analysis/blob/main/Dashboard%20Snapshots/WordWide_page-0002.jpg)
 
-- **Geographic Revenue**  
-![WordWide Page 3](Dashboard Snapshots/WordWide_page-0003.jpg)
+Geographic Revenue  
+![WordWide Page 3](https://github.com/youssefm0/worldwide-sales-analysis/blob/main/Dashboard%20Snapshots/WordWide_page-0003.jpg)
 
-- **Yearly Revenue Breakdown**  
-![WordWide Page 4](Dashboard Snapshots/WordWide_page-0004.jpg)
+Yearly Revenue Breakdown  
+![WordWide Page 4](https://github.com/youssefm0/worldwide-sales-analysis/blob/main/Dashboard%20Snapshots/WordWide_page-0004.jpg)
